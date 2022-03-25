@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "price": 390,
+        "name": "Nike Air Force 1",
+        "img": "https://ibb.co/nbqcLVF"
+    },
+    {
+        "id": "2",
+        "price": 182,
+        "name": "Nike React Miler 2 ",
+        "img": "https://ibb.co/KjbrscQ"
+    },
+    {
+        "id": "3",
+        "price": 159,
+        "name": "Nike Air Max 90 ",
+        "img": "https://ibb.co/tXnkMP7"
+    },
+    {
+        "id": "4",
+        "price": 580,
+        "name": "Nike Air Max 95",
+        "img": "https://ibb.co/nmZJ5Xq"
+    },
+    {
+        "id": "5",
+        "price": 180,
+        "name": "Nike Metcon 7 ",
+        "img": "https://ibb.co/H7Nk2Cn"
+    },
+    {
+        "id": "6",
+        "price": 580,
+        "name": "Nike Blazer Shoes",
+        "img": "https://ibb.co/3smJVmP"
+    },
+    {
+        "id": "7",
+        "price": 580,
+        "name": "Nike Air Jordan 1",
+        "img": "https://ibb.co/thwJzWp"
+    },
+    {
+        "id": "8",
+        "price": 580,
+        "name": "Nike Cortez Shoes",
+        "img": "https://ibb.co/cCHDy2N"
+    },
+    {
+        "id": "9",
+        "price": 580,
+        "name": "Nike Air Huarache",
+        "img": "https://ibb.co/DwQfLZq"
+    }
+]
