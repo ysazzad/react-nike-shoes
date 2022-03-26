@@ -2,7 +2,7 @@ import React from 'react';
 import './Info.css'
 
 const Info = (props) => {
-    console.log(props.info);
+    // console.log(props.info);
     return (
         <div className='info'>
 

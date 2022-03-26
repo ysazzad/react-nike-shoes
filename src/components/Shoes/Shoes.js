@@ -7,6 +7,7 @@ const Shoes = () => {
     const [shoes, setShoes] = useState([])
     const [cart, setCart] = useState([])
 
+
     useEffect(() => {
         fetch(`data.json`)
             .then(res => res.json())
@@ -18,6 +19,11 @@ const Shoes = () => {
         const newCart = [...cart, shoe]
         setCart(newCart)
     }
+    const removeToCart = () => {
+        const cart = []
+        setCart(cart)
+    }
+
 
     return (
         <div>
@@ -34,7 +40,7 @@ const Shoes = () => {
                     }
                 </div>
                 <div className="cart-container">
-                    <Cart cart={cart}></Cart>
+                    <Cart cart={cart} removeToCart={removeToCart}></Cart>
                 </div>
             </div>
 
