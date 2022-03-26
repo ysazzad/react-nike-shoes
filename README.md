@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # my project name is nike favourite shoes 
+[nike favourite shoes ](https://react-shoes-sazzu.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
