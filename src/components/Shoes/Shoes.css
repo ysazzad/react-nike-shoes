@@ -1,5 +1,11 @@
 .title{
     text-align: center;
+    background-color: rgb(150, 57, 236);
+    color: whitesmoke;
+}
+.title-bottom{
+    text-align: center;
+    color: orange;
 }
 .shoes-container{
     display: grid;

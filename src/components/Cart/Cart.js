@@ -7,10 +7,12 @@ const Cart = ({ cart, removeToCart }) => {
     function getRandom(list) {
         // return list[Math.floor((Math.random()*list.length))];
         console.log(list[Math.floor((Math.random() * list.length))]);
+        let item = list[Math.floor((Math.random() * list.length))]
+        console.log(item.name);
+        // alert("This item is for you", item.name)
+        alert(item.name + " is suitable for you")
 
     }
-
-
     return (
         <div className='cart'>
             <h3>Selected Shoes</h3>

@@ -28,6 +28,8 @@ const Shoes = () => {
     return (
         <div>
             <h1 className='title'>Nike Bazar</h1>
+            <h3 className='title-bottom'> Choose Your Favourite Shoes</h3>
+
             <div className="shoes-container">
                 <div className="products-container">
                     {

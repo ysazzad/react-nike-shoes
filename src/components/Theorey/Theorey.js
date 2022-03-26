@@ -6,7 +6,7 @@ const Theorey = () => {
         <div >
             <h1 className='theorey'>Theorey Part</h1>
             <div>
-                <h3>Difference between props and state</h3>
+                <h3 className='title-question'>Difference between props and state</h3>
                 <p>
                     1. props are used to pass data and state is used to store data. <br />
                     2. props can be used in both functional and class components and state can only be used in class components. <br />
@@ -16,7 +16,7 @@ const Theorey = () => {
                 </p>
             </div>
             <div>
-                <h3> How useState works </h3>
+                <h3 className='title-question'> How useState works </h3>
                 <p>
                     1. useState() is a built-in function that comes with the React library. <br />
                     2. useState() should only be used inside a functional component. <br />
